@@ -1,0 +1,12 @@
+{
+  "name": "conta-le-vocali",
+  "version": "1.0.0",
+  "description": "Esercizio Conta le Vocali",
+  "main": "app3.js",
+  "scripts": {
+    "start": "node app3.js",
+    "dev": "node --watch app3.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
