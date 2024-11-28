@@ -1,0 +1,12 @@
+{
+  "name": "pari-o-dispari",
+  "version": "1.0.0",
+  "description": "Esercizio Pari o Dispari",
+  "main": "app2.js",
+  "scripts": {
+    "start": "node app2.js",
+    "dev": "node --watch app2.js"
+  },
+  "author": "Niccolò Di Domenico",
+  "license": "ISC"
+}
